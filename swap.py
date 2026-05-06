@@ -1,7 +1,7 @@
 def swap(a, b):
     return b, a
 
-print(swap(5, 10))
+print(swap(55, 20))
 
 def subtraction(a,b):
     return b-a
