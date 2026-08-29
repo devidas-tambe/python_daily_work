@@ -10,7 +10,7 @@ else:
     if value == 1:
         print("Addition:", num1 + num2)
     elif value == 2:
-        print("Subtraction:",num1 - num2)
+        print("Subtraction:",num1 - num2) 
     elif value == 3:
         print(f"Multiplication: {num1 * num2}")
     elif value == 4:
